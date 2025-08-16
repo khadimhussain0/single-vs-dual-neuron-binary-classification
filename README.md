@@ -37,7 +37,7 @@ See the scripts in the `src` directory for instructions on running experiments.
 ## Datasets
 
 The experiments will use standard datasets widely accepted in the computer vision community, such as:
-- Binary classification subsets of CIFAR-10
+- Binary classification subsets of [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Results and Findings
 
