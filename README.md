@@ -1,4 +1,4 @@
-# Binary Classification Research: Single vs. Dual Neuron Output Layer
+# Output Layer Configurations for Binary Classification: Sin-gle-Neuron versus Dual-Neuron Approaches
 
 This research project investigates the impact of using a single neuron versus two neurons in the output layer for binary classification tasks in neural networks.
 
